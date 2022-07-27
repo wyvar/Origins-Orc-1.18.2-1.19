@@ -1,0 +1,11 @@
+{
+    "name": "Healthy bastard",
+    "description": "You have 5 hearts more than a puny human.",
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 10,
+        "operation": "addition"
+    }
+}

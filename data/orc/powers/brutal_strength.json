@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "name":"Brutal Strenght",
+    "description":"Deal 100% more damage from any weapon, but you do it slower.",
+    "modifier":{
+       "attribute":"minecraft:generic.attack_damage",
+       "operation":"multiply_base",
+       "value": 2
+    }
+}

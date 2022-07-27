@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "name": "Amplify exhaustion",
+        "operation": "multiply_base",
+        "value": 0.5
+    },
+	"name": "ME HUNGRY",
+	"description": "Do you even know being full? You need a lot of food"
+}

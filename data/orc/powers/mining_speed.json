@@ -1,0 +1,18 @@
+{
+    "hidden":true,
+    "type": "origins:modify_break_speed",
+    "condition":{
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition":
+            {
+            "type": "origins:harvest_level",
+            "comparison": "<",
+            "compare_to": 3
+        }
+    },
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 3
+    }
+}

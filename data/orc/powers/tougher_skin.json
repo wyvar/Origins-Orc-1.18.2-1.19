@@ -1,0 +1,17 @@
+{
+    "type": "origins:attribute",
+    "name":"Tougher, not smarter",
+    "description":"You survived hittin' your face to the wall - is it good? No. Are you tough? Probably - gain 3 armor",
+    "modifiers":[
+        {
+            "attribute":"minecraft:generic.armor",
+            "operation":"addition",
+            "value": 5
+        },
+        {
+            "attribute":"minecraft:generic.armor_toughness",
+            "operation":"addition",
+            "value": 5
+        }
+    ]
+}

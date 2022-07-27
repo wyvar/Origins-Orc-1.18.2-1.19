@@ -1,0 +1,11 @@
+{
+    "hidden":true,
+    "type": "origins:modify_jump",
+    "condition":{
+        "type":"origins:sprinting"
+    },
+    "modifier": {
+        "operation": "addition",
+        "value": 0.1
+    }
+}

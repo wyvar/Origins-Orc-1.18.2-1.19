@@ -1,0 +1,11 @@
+{
+    "hidden":true,
+    "name":"Looter's Instinct",
+    "description":"Your pickup range is doubled, have fun getting your items.",
+    "type":"origins:action_over_time",
+    "entity_action":{
+       "type":"origins:execute_command",
+       "command":"tp @e[type=minecraft:item,distance=..5.0,nbt={PickupDelay:0s}] @s"
+    },
+    "interval":1
+}

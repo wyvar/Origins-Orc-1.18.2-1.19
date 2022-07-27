@@ -1,0 +1,24 @@
+{
+    "powers": [
+        "orc:skin_color",
+        "orc:brutal_strength",
+        "orc:big_creature",
+        "orc:healthy_bastard",
+        "orc:attack_speed",
+        "orc:speed",
+        "orc:swimming_speed",
+        "orc:mining_speed",
+        "orc:stamina",
+        "orc:jump_height",
+        "orc:tougher_skin",
+        "orc:tool_modifier",
+        "orc:no_armor",
+        "orc:no_shield", 
+        "orc:no_tools"
+    ],
+    "icon": "minecraft:beef",
+    "order": 12,
+    "impact": 3,
+    "name": "Orc",
+    "description":"Orc is an primitive yet powerfuul race, that solved many problems solely relying on power. As you mighs suspect, there isn't many of them, but one could kill human with a stick"
+}

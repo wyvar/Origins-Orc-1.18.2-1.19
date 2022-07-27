@@ -1,0 +1,11 @@
+{
+    "name": "Too shiny = not strong",
+    "description": "Shiny rock is weaker than metal - You cannot use any armor higher than chainmal, any diamond and nehterite tools or shield \nThey didn't have iron size armor",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+        "ingredient": {
+            "tag": "origins:shields"
+        }
+    }
+}
